@@ -4,7 +4,7 @@ The cut tool is a command-line utility that extracts specified sections (fields,
 
 
 ![App Screenshot](Images/Cut.py.png)
-![App Screenshot](Images/Screenshot 1.png)
+![App Screenshot](Images/Screenshot1.png)
 ![App Screenshot](Images/Screenshot 2.png)
 ![App Screenshot](Images/Screenshot 3.png)
 ![App Screenshot](Images/Screenshot 4.png)
@@ -21,7 +21,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 Clone the repository to your local machine:
 
-git clone :
+git clone :https://github.com/OmRaj6666/Cutter_Tool.git
 
 IDE: VS CODE
 
