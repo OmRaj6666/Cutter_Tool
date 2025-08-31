@@ -5,9 +5,9 @@ The cut tool is a command-line utility that extracts specified sections (fields,
 
 ![App Screenshot](Images/Cut.py.png)
 ![App Screenshot](Images/Screenshot1.png)
-![App Screenshot](Images/Screenshot 2.png)
-![App Screenshot](Images/Screenshot 3.png)
-![App Screenshot](Images/Screenshot 4.png)
+![App Screenshot](Images/Screenshot2.png)
+![App Screenshot](Images/Screenshot3.png)
+![App Screenshot](Images/Screenshot4.png)
 
 ## Getting Started
 
